@@ -1,0 +1,1 @@
+Hello! Im Rafael, and i made this project just for fun, so please don't expect much of it. It will just verify if your site is online(200) or ofline(400). It can verify multiples URL's at the same time if you separate the links with commas, Enjoy it! 😁
